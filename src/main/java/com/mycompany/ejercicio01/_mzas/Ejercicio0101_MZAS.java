@@ -174,7 +174,7 @@ public class Ejercicio0101_MZAS {
         System.out.println("El peso es: " +pesomoto2.peso + " kg");
         System.out.println("El peso es: " +cilindrajemoto2.cilindraje + " cc");
         System.out.println("  ");
-       
+        System.out.println("hola mundo");
         //////////////////////////////////////////////
     }
 }
